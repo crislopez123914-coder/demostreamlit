@@ -1,4 +1,4 @@
-paltair
+altair<5
 pandas
 streamlit
 plotly
