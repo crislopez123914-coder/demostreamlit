@@ -1,4 +1,5 @@
-altair
+paltair
 pandas
 streamlit
 plotly
+openpyxl
